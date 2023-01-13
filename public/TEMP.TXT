@@ -1,0 +1,4 @@
+font-family: 'Oswald', sans-serif;      FOR NORMAL HEADING
+font-family: 'Open Sans', sans-serif;   FOR NORMAL TEXT
+font-family: 'Anton', sans-serif;     FOR BIGGER HEADING TEXTS 
+font-family: 'Caveat', cursive;     for cursive headings
